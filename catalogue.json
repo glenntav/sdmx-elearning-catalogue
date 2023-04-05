@@ -2,6 +2,7 @@
     "elearning" : {
         "courses" : [
             {
+                "topic" : "FMR",
                 "title" : "FMR for beginners 2",
                 "summary" : "An introductory course for those new to FMR",
                 "sponsor" : "BIS",
@@ -9,6 +10,7 @@
                 "image" : "https://www.sdmx.io/images/events/validate.jpg"
             },
             {
+                "topic" : ".Stat Suite"
                 "title" : "Using .Stat suite for dissemination",
                 "summary" : "A structured e-learning course for those wanting to use .Stat Suite for data dissemination use cases",
                 "sponsor" : "OECD",
