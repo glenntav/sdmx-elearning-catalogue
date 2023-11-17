@@ -7,7 +7,7 @@
                 "summary" : "An introductory course for those new to FMR",
                 "sponsor" : "BIS",
                 "url" : "https://sdmx.io/learn",
-                "image" : "https://www.sdmx.io/images/learn/getting-started-run-in-docker.png"
+                "image" : "https://www.sdmx.io/images/elearning/running_fmr_docker.png"
             },
             {
                 "topic" : ".Stat Suite",
